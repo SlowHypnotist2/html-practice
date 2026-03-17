@@ -1,26 +1,33 @@
-# HTML Practice
+# HTML & CSS Practice
 
-Learning HTML and CSS - Week 1 & 2 practice pages
+Learning Front-End Development - Building toward a career switch
 
 ## What's Inside
 
-This repository contains my HTML practice files from Week 1 and 2 of learning front-end development:
+**HTML Practice (Week 1-2):**
+- simple-bio.html
+- favorite-anime.html & v2
+- contact.html
+- hobbies.html
+- recipe.html
+- schedule.html
+- links.html
 
-- `simple-bio.html` - Personal biography page
-- `favorite-anime.html` - List of favorite anime  
-- `favorite-anime-v2.html` - Improved version
-- `contact.html` - Contact form
-- `hobbies.html` - My hobbies (Cricket, Gaming, Anime)
-- `recipe.html` - Recipe with table
-- `schedule.html` - Daily routine schedule
-- `links.html` - Useful website links
+**CSS Practice (Week 3-4):**
+- css-practice-1.html through css-practice-4.html
+- profile.html (complete portfolio page with styling)
+- my-week.html (styled schedule)
 
-## Progress
+## Current Progress
 
-- ✅ Week 1: HTML Basics (4 pages)
-- ✅ Week 2: Tables & Links (3 pages)
-- 🔄 Week 3: CSS Styling (Starting Jan 27, 2026)
+- ✅ HTML Fundamentals (Jan 2026)
+- ✅ CSS Basics: Colors, fonts, padding, margin, divs, classes (Feb-Mar 2026)
+- 🔄 Next: More CSS practice + JavaScript starting soon
 
-## Learning Journey
+## Goal
 
-Currently working through a 6-month plan to become a Front-End Developer. This is just the beginning! 🚀
+Career switch to Front-End Developer by October 2026
+
+## About
+
+30-year-old tech support professional learning to code. Building projects, one page at a time.
